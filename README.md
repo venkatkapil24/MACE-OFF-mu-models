@@ -1,4 +1,4 @@
-# A dipole model(s) for organic systems. 
+# MACE-mu: Dipole model(s) for organic systems. 
 
 ## License
 
