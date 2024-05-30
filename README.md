@@ -1,6 +1,5 @@
-# MACE-organic-dipole
-A dipole model trained on the SPICE dataset. 
+# A dipole model trained on the SPICE dataset. 
 
-models		directory containing the dipole model(s)
+<b>models</b>.		Directory containing the dipole model(s) <br>
+<b>example.</b>		Directory containing a python script for inference
 
-example		python script for inference
