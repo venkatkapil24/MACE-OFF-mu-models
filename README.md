@@ -1,4 +1,4 @@
-# A dipole model(s) for organic systems . 
+# A dipole model(s) for organic systems. 
 
 ## License
 
