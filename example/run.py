@@ -3,8 +3,10 @@ import numpy
 from ase.io import iread
 from mace.calculators import MACECalculator
 
-dataset = 'h2o.xyz'
-model_path = '../models/SPICE_medium_dipole.model'
+dataset = 'dataset.xyz'
+model_path = '../models/SPICE_small_dipole.model'
+# if you want to use the meduium model
+#model_path = '../models/SPICE_medium_dipole.model'
 device = 'cpu'
 default_dtype = 'float64'
 model_type = 'DipoleMACE'
